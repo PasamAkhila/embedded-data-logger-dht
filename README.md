@@ -1,2 +1,16 @@
-# embedded-data-logger-dht
-Embedded data logger implemented in C that reads temperature and humidity from a DHT11 sensor and logs the data with a timestamp through serial communication. Demonstrates sensor interfacing, modular firmware design, and basic data logging concepts using a microcontroller platform simulated in Tinkercad.
+# Embedded Data Logger using DHT11
+
+This project logs temperature and humidity data from a DHT11 sensor and prints it with a timestamp.
+
+## Features
+- DHT11 temperature & humidity monitoring
+- Timestamp logging using millis()
+- Modular embedded C design
+
+## Hardware
+Arduino Uno
+DHT11 sensor
+
+## Author
+Akhila
+Embedded System learner
